@@ -1,0 +1,1 @@
+basic.showString(control.deviceName())
